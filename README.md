@@ -11,18 +11,18 @@
 <div style="display: inline-flex;">
   <img
     width="49%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SathishGunasekaran-24&hide_border=true&stroke=31353a&background=0D1117"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SathishGunasekaran-24&theme=tokyonight_duo&hide_border=true&stroke=31353a&background=0D1117"
     alt="SathishGunasekaran-24"
   />
  <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=SathishGunasekaran-24&show_icons=true&bg_color=0D1117&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=SathishGunasekaran-24&show_icons=true&bg_color=0D1117&theme=tokyonight&hide_border=true"
     alt="SathishGunasekaran-24"
   />
   
 </div>
 <img
-  src="https://activity-graph.herokuapp.com/graph?username=SathishGunasekaran-24&hide_border=true"
+  src="https://activity-graph.herokuapp.com/graph?username=SathishGunasekaran-24&theme=react-dark&hide_border=true"
   alt="SathishGunasekaran-24"
 />
 
