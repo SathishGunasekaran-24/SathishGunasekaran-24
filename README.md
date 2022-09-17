@@ -211,7 +211,7 @@
   </a>
   <a href="https://twitter.com/sathishguna2404" target="blank"
     ><img
-      src="https://img.shields.io/twitter/follow/rejochandran?logo=twitter&style=for-the-badge"
+      src="https://img.shields.io/twitter/follow/SathishGunasekaran?logo=twitter&style=for-the-badge"
       alt="Sathish Gunasekaran"
   /></a>
 </p>
