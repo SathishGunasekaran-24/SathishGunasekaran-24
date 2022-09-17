@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, Sathish here!</h1>
 
 <h3 align="center">Junior Frontend Engineer @Accenture</h3>
-<h4 align="center"><i>Praise be to the Lord my Rock,
-    who trains my hands for war,
- my fingers for battle. <span style="font-size:0.5em;">Psalm 144:1</span></i></h4>
+<h4 align="center"><i>I can do this All Day</span></i></h4>
 <p align="center">
  
 </p>
