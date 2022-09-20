@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Sathish here!</h1>
+<h1 align="center">Hi 👋, Sathish Gunasekaran here!</h1>
 
 <h3 align="center">Junior Frontend Engineer @Accenture</h3>
 <h4 align="center"><i>I can do this all Day</span></i></h4>
